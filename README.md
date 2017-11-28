@@ -6,19 +6,21 @@ Problem Statement
  
  The Portfolio as follows: 
  
-|Portfolio Type    | Mean      | Standard Deviation |
+ Portfolio Type    | Mean      | Standard Deviation 
+------------------|------------|---------------------
 |Aggressive        | 9.4324%   |   15.675           |   
 |Very Conservative | 6.189%    |   6.3438           |  
 
 
-Inflation : 3.5%
-Number of Simulation : 10000
-Initial Investment : $100000
+* Inflation : 3.5%
+* Number of Simulation : 10000
+* Initial Investment : $100000
 
 
 Solution : Portfolio after 20 years
 
-|Portfolio Type    | Median 20th year      | 10% Best Case | 10% Worst Case |
+Portfolio Type    | Median 20th year      | 10% Best Case | 10% Worst Case 
+------------------|-----------------------|---------------|-----------------|
 |Aggressive        | $242,709.20           |  $548,163.45  |  $104,126.77   |
 |Very Conservative | $157,297.56           |  $222,058.74  |  $111,597.90   |
 
