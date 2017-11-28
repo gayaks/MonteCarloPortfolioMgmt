@@ -27,7 +27,7 @@ Portfolio Type    | Median 20th year      | 10% Best Case | 10% Worst Case
 
 How to Run : 
 
-java -jar monte-carlo-portfolio-0.0.1-SNAPSHOT.jar  <NumOfSimulation> <NumOfYears> <Mean> <StdDeviation> <initialInvestment> <Inflation>
+java -jar monte-carlo-portfolio-0.0.1-SNAPSHOT.jar  NumOfSimulation NumOfYears Mean StdDeviation initialInvestment Inflation
 
 
 
